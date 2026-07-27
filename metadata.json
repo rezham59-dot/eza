@@ -1,0 +1,6 @@
+{
+  "name": "Database Siswa SDN 1 SUKAJAYA",
+  "description": "Sistem Database Siswa, Laporan Nilai, dan Rekap Absensi SDN 1 Sukajaya dengan fitur Upload & Download PDF dan Excel",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
